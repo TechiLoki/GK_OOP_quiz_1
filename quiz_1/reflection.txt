@@ -1,0 +1,7 @@
+The initial challenge that I faced was properly naming packages. My IDE was going haywire a bit, and I initially got lost with the creation of proper package names and file structure.
+
+However, that didn't take long either way.
+
+I don't think I have faced any other serious (for me) challenge, as I am familiar with the basic features of many programming languages (switch-case in t2, for example) and just adapted them to Java using google and ChatGPT 
+
+AIs were helpful a bit, because they can process whatever you're asking better, and you don't face the issue of correct phrasing (which is important with the regular search engines), along with decent examples.
